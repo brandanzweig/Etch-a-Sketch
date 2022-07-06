@@ -1,3 +1,7 @@
+body {
+	background-color: #fed766;
+}
+
 .container{
 	border: 5px solid black;
 	height: 600px;
